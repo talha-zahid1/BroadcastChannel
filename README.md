@@ -1,9 +1,10 @@
 # 📢 Broadcast Channel
 This project is a *Broadcast Channel application* that allows sending and receiving messages between multiple clients.  
 It was built to demonstrate concepts of *multithreading, **client-server communication, and **synchronization* in Java.
+In this Boadcast channel clientsconnecter connects by making the oject of client class passing portnumber and IP Address as a parameters
 ## 🚀 Features
 - Multiple clients can connect to the server.
-- Messages from one client are broadcasted to all connected clients.
+- Server Displays Messages from clientsconnecters on it's console 
 - Proper handling of client connections and disconnections.
 - Uses Java threads for concurrent client communication.
 ## Technologies Used
